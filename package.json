@@ -1,0 +1,26 @@
+{
+  "name": "primer-ejercicio-js",
+  "version": "1.0.0",
+  "description": "Ejercicio 1 en el curso JavaScript básico de Open Bootcampo ",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgnacioCruz06/open-bootcamp-JS.git"
+  },
+  "keywords": [
+    "javascript",
+    "npm",
+    "nodejs",
+    "openbootcamp"
+  ],
+  "author": "Ignacio Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgnacioCruz06/open-bootcamp-JS/issues"
+  },
+  "homepage": "https://github.com/IgnacioCruz06/open-bootcamp-JS#readme"
+}
